@@ -1,16 +1,43 @@
-## Hola 👋
+# 👋 Hola, soy Daniel Angel
 
-<!--
-**Daniel-Angel-40/Daniel-Angel-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿Quien soy?
+💻 Backend Developer en formación  
+Aprendiendo PHP, Markdown y Scratch  
+España 🇪🇸  
+Objetivos🎯: Crear una arquitectura de software capaz de resolver todos los problemas del mundo
 
-Here are some ideas to get you started:
+## Perfil técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo lento pero efectivo.  
+Motivacion: crear utilidades a las personas
+
+### Tecnologias
+
+#### Front-End
+
+HTML  
+CSS
+
+#### Back-End
+
+Java  
+MySql
+
+#### Herramientas
+
+Git  
+IntelliJ  
+VS Code  
+Docker
+
+
+## Proyectos En Curso
+
+[Proyecto mas grande hasta la fecha] (https://sites.google.com/view/recopilacion-de-la-pocilga/inicio)
+
+
+## Contacto
+
+Email: danieladler326@gmail.com  
+Linkedin: Ok Tio  
+[Perfil Github] (https://github.com/Daniel-Angel-40)
