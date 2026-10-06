@@ -1,8 +1,7 @@
 # 👋 Hola, soy Daniel Angel
 
 ## ¿Quien soy?
-💻 Backend Developer en formación  
-Aprendiendo PHP, Markdown y Scratch  
+💻 Full-Stack Developer en formación    
 España 🇪🇸  
 Objetivos🎯: Crear una arquitectura de software capaz de resolver todos los problemas del mundo
 
@@ -17,11 +16,14 @@ Motivacion: crear utilidades a las personas
 
 HTML  
 CSS
+JS
 
 #### Back-End
 
 Java  
 MySql
+Python
+PHP
 
 #### Herramientas
 
@@ -29,7 +31,7 @@ Git
 IntelliJ  
 VS Code  
 Docker
-
+AWS
 
 ## Proyectos En Curso
 
